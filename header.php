@@ -84,7 +84,7 @@
               <a href="store.php" class="nav-item nav-link">
                 <i class="fa-solid fa-cart-shopping"></i> Store
               </a>
-               <a href="about.php" class="nav-item nav-link">
+               <a href="about_us.php" class="nav-item nav-link">
                 <i class="fa-solid fa-circle-info"></i> About
               </a>
             </div>     
@@ -108,7 +108,7 @@
                 <li class="list-inline-item fs-5 fw-medium text-primary"><a href="bike_touring.php">Bike Touring</a></li>
                 <li class="list-inline-item fs-5 fw-medium text-primary"><a href="essentials.php">Essentials</a></li>
                 <li class="list-inline-item fs-5 fw-medium text-primary"><a href="where_to_go.php">Where to go?</a></li>
-                <li class="list-inline-item fs-5 fw-medium text-primary"><a href="#">Technology</a></li>
+                <li class="list-inline-item fs-5 fw-medium text-primary"><a href="technology.php">Technology</a></li>
               </ul>
           </div>
           </div>
